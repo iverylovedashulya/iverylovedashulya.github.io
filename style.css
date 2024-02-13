@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Noto Sans", sans-serif;
+}
+body{
+    background-color: rgb(209 80 80);
+    color: white;
+}
+.valentine{
+    display: flex;
+    margin-top: 200px;
+    align-items: center;
+    flex-direction: column;
+}
+.valentine img{
+    width: 60%;
+}
+.valentine a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}

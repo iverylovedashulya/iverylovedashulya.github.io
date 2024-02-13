@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Noto Sans", sans-serif;
+}
+body{
+    background-color: rgb(209 80 80);
+    color: white;
+    text-decoration: underline;
+}
+.letter{
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+    width: 400px;
+    margin: 250px auto;
+}
